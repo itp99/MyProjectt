@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyProjectt</string>
+    <string name="icon">app icon name</string>
+    <string name="about">About</string>
+    <string name="call">Call Us</string>
+    <string name="hours">Work Hours</string>
+
+
+</resources>

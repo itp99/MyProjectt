@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"اسم التطبيق "</string>
+    <string name="icon">"شعار التطبيق "</string>
+    <string name="about">نبذة عن الشركة</string>
+    <string name="call">اتصل بنا</string>
+    <string name="hours">"ساعات العمل "</string>
+</resources>
